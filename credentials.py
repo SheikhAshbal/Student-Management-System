@@ -1,5 +1,5 @@
 # User Credentials
 host = 'localhost'
-user = 'root'
-password = 'Future456$'
-database = 'student_management'
+user = 'user_name'
+password = 'Your_password'
+database = 'Your_database_name'
