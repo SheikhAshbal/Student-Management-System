@@ -1,5 +1,5 @@
-# User Credentials
+# Credentials
 host = 'localhost'
-user = 'user_name'
+user = 'Your_username'
 password = 'Your_password'
-database = 'Your_database_name'
+database = 'Your_database'
