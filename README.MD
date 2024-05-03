@@ -36,5 +36,5 @@ Create a table named student_register with columns f_name, l_name, course, subje
 <h2>Usage</h2>
 Clone this repository.<br>
 Update credentials.py with your MySQL database credentials.<br>
-Run student_management.py to start the application.<br>
+Run main.py to start the application.<br>
 Use the buttons to perform different operations such as adding, viewing, updating, and deleting student records.
